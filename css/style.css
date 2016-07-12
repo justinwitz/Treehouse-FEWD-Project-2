@@ -278,8 +278,8 @@ footer .studentname {
 	vertical-align: top;
   }
   
-  .nine {
-    display: none;
+  .seven, .eight, .nine {
+	  display: none;
   }
 
   .one, .three, .five, .seven, .nine {
