@@ -11,15 +11,15 @@ body {
 
 a {
   text-decoration: none;
-  color: orange;
+  color: #3a3a3a;
 }
 
 a:active {
-	color: orange;
+	color: #3a3a3a;
 }
 
 a:hover {
-	color: yellow;
+	color: aqua;
 }
 
 ul {
@@ -143,7 +143,7 @@ footer {
 }
 
 .contact-content {
-  margin-top: 20px;
+  margin-top: 0;
 }
 
 .contact-content h3 {
@@ -204,7 +204,7 @@ footer .studentname {
   }
   
   .main-nav a {
-    color: orange; 
+    color: #3a3a3a; 
   }
 
   .main-nav li {
@@ -227,15 +227,15 @@ footer .studentname {
   
   a {
     text-decoration: none;
-    color: orange;
+    color: #3a3a3a;
   }
 
   a:active {
-	color: orange;
+	color: #3a3a3a;
   }
 
   a:hover {
-	color: yellow;
+	color: aqua;
   }
 
   #profile-image {
@@ -344,7 +344,7 @@ footer .studentname {
   }
 
   .main-nav a {
-    color: orange;
+    color: #3a3a3a;
   }
 
   .main-header {
@@ -353,15 +353,15 @@ footer .studentname {
 
   a {
     text-decoration: none;
-    color: orange;
+    color: #3a3a3a;
   }
 
   a:active {
-	color: orange;
+	color: #3a3a3a;
   }
 
   a:hover {
-	color: yellow;
+	color: aqua;
   }
 
   #profile-image {
