@@ -289,11 +289,11 @@ footer .studentname {
 	  display: none;
   }
 
-  .one, .three, .five, .seven, .nine {
+  .one, .three, .five {
 	padding: 1em .5em 0 1em;
   }
 
-  .two, .four, .six, .eight {
+  .two, .four, .six {
 	padding: 1em 1em 0 .5em;
   }
     
